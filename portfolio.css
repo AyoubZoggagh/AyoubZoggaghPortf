@@ -7,8 +7,9 @@ html{
 }
 
 body{
-	background-image: url(introduce.jg);
+	background-image: url(introduce.jpg);
 	background-repeat: repeat;
+	background-color: grey;
 }
 
 div { 
@@ -59,3 +60,4 @@ img {
   margin-right: auto;
   width: 50%;
 }
+
